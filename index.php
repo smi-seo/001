@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo 'первый';
         echo 'второй';
+        echo 'третий';
         ?>
     </body>
 </html>
